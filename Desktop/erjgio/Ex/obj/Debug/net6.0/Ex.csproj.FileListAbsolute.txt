@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/bin/Debug/net6.0/Ex
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/bin/Debug/net6.0/Ex.deps.json
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/bin/Debug/net6.0/Ex.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/bin/Debug/net6.0/Ex.dll
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/bin/Debug/net6.0/Ex.pdb
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.dll
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/refint/Ex.dll
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.pdb
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/Ex.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/erjgio/Ex/obj/Debug/net6.0/ref/Ex.dll
