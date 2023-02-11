@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/task0/bin/Debug/net6.0/task0
+/Users/aleksandrburmagin/Desktop/C#/task0/bin/Debug/net6.0/task0.deps.json
+/Users/aleksandrburmagin/Desktop/C#/task0/bin/Debug/net6.0/task0.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/C#/task0/bin/Debug/net6.0/task0.dll
+/Users/aleksandrburmagin/Desktop/C#/task0/bin/Debug/net6.0/task0.pdb
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.dll
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/refint/task0.dll
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.pdb
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/task0.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/C#/task0/obj/Debug/net6.0/ref/task0.dll

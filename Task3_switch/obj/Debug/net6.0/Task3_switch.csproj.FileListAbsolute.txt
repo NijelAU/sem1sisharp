@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/bin/Debug/net6.0/Task3_switch
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/bin/Debug/net6.0/Task3_switch.deps.json
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/bin/Debug/net6.0/Task3_switch.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/bin/Debug/net6.0/Task3_switch.dll
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/bin/Debug/net6.0/Task3_switch.pdb
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.dll
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/refint/Task3_switch.dll
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.pdb
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/Task3_switch.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/C#/Task3_switch/obj/Debug/net6.0/ref/Task3_switch.dll
