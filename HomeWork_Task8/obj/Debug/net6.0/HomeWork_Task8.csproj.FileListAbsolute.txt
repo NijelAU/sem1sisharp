@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/bin/Debug/net6.0/HomeWork_Task8
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/bin/Debug/net6.0/HomeWork_Task8.deps.json
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/bin/Debug/net6.0/HomeWork_Task8.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/bin/Debug/net6.0/HomeWork_Task8.dll
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/bin/Debug/net6.0/HomeWork_Task8.pdb
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.dll
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/refint/HomeWork_Task8.dll
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.pdb
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/HomeWork_Task8.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task8/obj/Debug/net6.0/ref/HomeWork_Task8.dll

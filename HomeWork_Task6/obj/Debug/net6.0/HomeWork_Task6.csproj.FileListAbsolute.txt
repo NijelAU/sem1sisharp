@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/bin/Debug/net6.0/HomeWork_Task6
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/bin/Debug/net6.0/HomeWork_Task6.deps.json
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/bin/Debug/net6.0/HomeWork_Task6.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/bin/Debug/net6.0/HomeWork_Task6.dll
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/bin/Debug/net6.0/HomeWork_Task6.pdb
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.dll
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/refint/HomeWork_Task6.dll
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.pdb
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/HomeWork_Task6.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/C#/HomeWork_Task6/obj/Debug/net6.0/ref/HomeWork_Task6.dll
