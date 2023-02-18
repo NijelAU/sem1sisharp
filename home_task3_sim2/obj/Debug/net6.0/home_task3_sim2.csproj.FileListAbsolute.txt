@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/bin/Debug/net6.0/home_task3_sim2
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/bin/Debug/net6.0/home_task3_sim2.deps.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/bin/Debug/net6.0/home_task3_sim2.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/bin/Debug/net6.0/home_task3_sim2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/bin/Debug/net6.0/home_task3_sim2.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/refint/home_task3_sim2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/home_task3_sim2.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task3_sim2/obj/Debug/net6.0/ref/home_task3_sim2.dll

@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/bin/Debug/net6.0/task1_2
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/bin/Debug/net6.0/task1_2.deps.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/bin/Debug/net6.0/task1_2.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/bin/Debug/net6.0/task1_2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/bin/Debug/net6.0/task1_2.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/refint/task1_2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/task1_2.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/task1_2/obj/Debug/net6.0/ref/task1_2.dll

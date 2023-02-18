@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/bin/Debug/net6.0/home_task2_sem2
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/bin/Debug/net6.0/home_task2_sem2.deps.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/bin/Debug/net6.0/home_task2_sem2.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/bin/Debug/net6.0/home_task2_sem2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/bin/Debug/net6.0/home_task2_sem2.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/refint/home_task2_sem2.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/home_task2_sem2.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/home_task2_sem2/obj/Debug/net6.0/ref/home_task2_sem2.dll
