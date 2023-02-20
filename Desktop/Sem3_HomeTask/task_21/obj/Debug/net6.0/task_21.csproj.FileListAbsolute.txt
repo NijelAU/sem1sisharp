@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/bin/Debug/net6.0/task_21
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/bin/Debug/net6.0/task_21.deps.json
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/bin/Debug/net6.0/task_21.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/bin/Debug/net6.0/task_21.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/bin/Debug/net6.0/task_21.pdb
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/refint/task_21.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.pdb
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/task_21.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_21/obj/Debug/net6.0/ref/task_21.dll
