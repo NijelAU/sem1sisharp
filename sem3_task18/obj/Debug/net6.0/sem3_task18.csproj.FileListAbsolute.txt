@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/bin/Debug/net6.0/sem3_task18
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/bin/Debug/net6.0/sem3_task18.deps.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/bin/Debug/net6.0/sem3_task18.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/bin/Debug/net6.0/sem3_task18.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/bin/Debug/net6.0/sem3_task18.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/refint/sem3_task18.dll
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.pdb
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/sem3_task18.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/sem2_sisharp/sem3_task18/obj/Debug/net6.0/ref/sem3_task18.dll
