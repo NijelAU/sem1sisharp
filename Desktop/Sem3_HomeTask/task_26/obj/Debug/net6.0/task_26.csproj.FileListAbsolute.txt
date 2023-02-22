@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/bin/Debug/net6.0/task_26
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/bin/Debug/net6.0/task_26.deps.json
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/bin/Debug/net6.0/task_26.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/bin/Debug/net6.0/task_26.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/bin/Debug/net6.0/task_26.pdb
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/refint/task_26.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.pdb
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/task_26.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_26/obj/Debug/net6.0/ref/task_26.dll

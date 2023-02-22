@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/bin/Debug/net6.0/task_28
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/bin/Debug/net6.0/task_28.deps.json
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/bin/Debug/net6.0/task_28.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/bin/Debug/net6.0/task_28.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/bin/Debug/net6.0/task_28.pdb
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/refint/task_28.dll
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.pdb
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/task_28.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/Sem3_HomeTask/task_28/obj/Debug/net6.0/ref/task_28.dll
