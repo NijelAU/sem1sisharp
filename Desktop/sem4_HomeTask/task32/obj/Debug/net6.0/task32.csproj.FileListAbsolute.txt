@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/bin/Debug/net6.0/task32
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/bin/Debug/net6.0/task32.deps.json
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/bin/Debug/net6.0/task32.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/bin/Debug/net6.0/task32.dll
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/bin/Debug/net6.0/task32.pdb
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.dll
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/refint/task32.dll
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.pdb
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/task32.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/sem4_HomeTask/task32/obj/Debug/net6.0/ref/task32.dll
