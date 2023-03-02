@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/bin/Debug/net6.0/TASK45
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/bin/Debug/net6.0/TASK45.deps.json
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/bin/Debug/net6.0/TASK45.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/bin/Debug/net6.0/TASK45.dll
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/bin/Debug/net6.0/TASK45.pdb
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.dll
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/refint/TASK45.dll
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.pdb
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/TASK45.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/hometask_5/TASK45/obj/Debug/net6.0/ref/TASK45.dll
