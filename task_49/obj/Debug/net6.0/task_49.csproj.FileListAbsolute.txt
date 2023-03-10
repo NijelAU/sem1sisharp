@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/bin/Debug/net6.0/task_49
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/bin/Debug/net6.0/task_49.deps.json
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/bin/Debug/net6.0/task_49.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/bin/Debug/net6.0/task_49.dll
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/bin/Debug/net6.0/task_49.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.dll
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/refint/task_49.dll
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/task_49.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task_49/obj/Debug/net6.0/ref/task_49.dll
