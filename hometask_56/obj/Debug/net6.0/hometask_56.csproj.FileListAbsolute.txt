@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/bin/Debug/net6.0/hometask_56
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/bin/Debug/net6.0/hometask_56.deps.json
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/bin/Debug/net6.0/hometask_56.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/bin/Debug/net6.0/hometask_56.dll
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/bin/Debug/net6.0/hometask_56.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.dll
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/refint/hometask_56.dll
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/hometask_56.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_56/obj/Debug/net6.0/ref/hometask_56.dll

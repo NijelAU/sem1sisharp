@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/bin/Debug/net6.0/hometask_54
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/bin/Debug/net6.0/hometask_54.deps.json
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/bin/Debug/net6.0/hometask_54.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/bin/Debug/net6.0/hometask_54.dll
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/bin/Debug/net6.0/hometask_54.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.dll
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/refint/hometask_54.dll
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/hometask_54.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/hometask6/hometask_54/obj/Debug/net6.0/ref/hometask_54.dll
