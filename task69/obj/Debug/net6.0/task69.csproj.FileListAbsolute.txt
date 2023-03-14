@@ -1,0 +1,15 @@
+/Users/aleksandrburmagin/Desktop/hometask6/task69/bin/Debug/net6.0/task69
+/Users/aleksandrburmagin/Desktop/hometask6/task69/bin/Debug/net6.0/task69.deps.json
+/Users/aleksandrburmagin/Desktop/hometask6/task69/bin/Debug/net6.0/task69.runtimeconfig.json
+/Users/aleksandrburmagin/Desktop/hometask6/task69/bin/Debug/net6.0/task69.dll
+/Users/aleksandrburmagin/Desktop/hometask6/task69/bin/Debug/net6.0/task69.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.csproj.AssemblyReference.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.AssemblyInfoInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.AssemblyInfo.cs
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.csproj.CoreCompileInputs.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.dll
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/refint/task69.dll
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.pdb
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/task69.genruntimeconfig.cache
+/Users/aleksandrburmagin/Desktop/hometask6/task69/obj/Debug/net6.0/ref/task69.dll
